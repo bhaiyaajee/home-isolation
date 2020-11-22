@@ -26,6 +26,7 @@ int pulserate=0;
 
 int main()
 {
+printf("Ye COVID ka ilaaka hai ");
  FILE * fp;
  Student s;
 int option;
